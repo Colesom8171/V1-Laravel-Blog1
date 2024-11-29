@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "postinstall": "download https://cdn.datatables.net/1.13.4/css/jquery.dataTables.min.css public/css/jquery.dataTables.min.css"
+    },
+    "devDependencies": {
+        "@tailwindcss/forms": "^0.5.2",
+        "alpinejs": "^3.4.2",
+        "autoprefixer": "^10.4.2",
+        "axios": "^1.6.4",
+        "download-cli": "^1.1.1",
+        "postcss": "^8.4.31",
+        "tailwindcss": "^3.1.0"
+    },
+    "dependencies": {
+        "@popperjs/core": "^2.11.8",
+        "bootstrap": "^5.3.3",
+        "datatables.net": "^2.1.6",
+        "datatables.net-dt": "^2.1.6"
+    }
+}

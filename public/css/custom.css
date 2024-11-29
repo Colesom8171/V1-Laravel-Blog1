@@ -1,0 +1,7 @@
+.badge {
+    color: white; /* Cambiar color de texto */
+    background-color: blue; /* Cambiar color de fondo */
+    padding: 0.5rem; /* Espaciado interno */
+    border-radius: 0.25rem; /* Bordes redondeados */
+    margin-right: 0.5rem; /* Espacio entre badges */
+}

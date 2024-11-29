@@ -1,0 +1,10 @@
+/* public/css/custom-navbar.css */
+.navbar {
+    z-index: 1000; /* Asegura que el navbar esté sobre otros elementos */
+}
+
+.navbar .container-fluid {
+    padding: 0 15px; /* Ajusta el espaciado según tus necesidades */
+}
+
+/* Otros estilos específicos para el navbar */
